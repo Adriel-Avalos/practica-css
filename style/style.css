@@ -1,7 +1,17 @@
 body{
-background-color: rgb(98, 100, 100);
-font-size: 17px;
+background-color: rgb(98, 100, 100); /*color de fondo*/
+font-size: 17px; /*Tamaño de la letra*/
 }
 h1{
-    text-align: center;
+    font-size: 24px;/*Tamaño de la letra*/
+    text-align: center;/*Alineacion del texto*/
+}
+.textoGrande{
+    font-size: 21px; /*Tamaño del texto*/
+    font-weight: bold; /*Grosor del texto*/
+}
+.contenedor{
+text-decoration: underline; /*subrayar*/
+background-color: rgb(67, 117, 117);/*color del texto*/
+font-size: 30px; /*Tamaño de la letra*/
 }
